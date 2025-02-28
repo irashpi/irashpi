@@ -1,5 +1,7 @@
 ## Hi there, I'm Iryna 👋
+
 ### 💻 Junior Data Analyst | Power BI Developer
+
 Welcome to my portfolio!
 
 
@@ -9,7 +11,7 @@ Welcome to my portfolio!
 ## 📊 Projects Showcase
 
 ### Sales Performance Dashboard
-![Sales Performance Dashboard]([https://github.com/irashpi/Portfolio/blob/main/изображен%20%3F%3F_2025-0%202-28_111404023.png])
+![Sales Performance Dashboard](https://github.com/irashpi/Portfolio/blob/main/изображен%20%3F%3F_2025-0%202-28_111404023.png)
 
 **Description:** Analysis of sales performance by country, category, and top products, using ABC analysis.  
 **Tools:** Power BI, DAX, Power Query  
