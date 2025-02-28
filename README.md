@@ -8,7 +8,7 @@ I'm passionate about turning data into meaningful insights through interactive d
 ## 📊 Projects Showcase
 
 ### 1. Sales Performance Dashboard
-![Sales Performance Dashboard](https://github.com/irashpi/Portfolio/blob/main/Portfolio/dashboard1.png?raw=true)
+![Sales Performance Dashboard](https://raw.githubusercontent.com/irashpi/Portfolio/main/Portfolio/dashboard1.png)
 
 **Description:** Analysis of sales performance by country, category, and top products, using ABC analysis.  
 **Tools:** Power BI, DAX, Power Query  
